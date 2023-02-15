@@ -3,9 +3,9 @@
 #### I'm a DevOps Engineer by Day and FullStack Developer by Night !!
 
 - 🌱 I am currently learning everything 🤣
-- 👯 I am looking to collaborate with everyone
-- 🥅 2021 Goals: Finish my side projects
-- ⚡ Fun fact: I am a linux fan boy, but I don't use arch BTW 🤣
+- 👯 I am looking to collaborate with everyone and work on exciting projects
+- 🥅 This year's goals: Finish my side projects
+- ⚡ Fun fact: I am a linux fan boy
 
 ### Connect with me:
 
