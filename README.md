@@ -1,6 +1,6 @@
 ## Hi there, I am Cedric 👋
 
-#### I'm a DevOps Engineer by Day and FullStack Developer by Night !!
+#### I'm a Full Stack Engineer by Day and the whole IT department by Night !!
 
 - 🌱 I am currently learning everything 🤣
 - 👯 I am looking to collaborate with everyone and work on exciting projects
