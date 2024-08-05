@@ -1,11 +1,11 @@
 ## Hi there, I am Cedric 👋
 
-#### I'm a Full Stack Engineer by Day and the whole IT department by Night !!
+#### I'm a Full Stack Engineer by Day and the whole IT department by Night!!
 
 - 🌱 I am currently learning everything 🤣
 - 👯 I am looking to collaborate with everyone and work on exciting projects
 - 🥅 This year's goals: Finish my side projects
-- ⚡ Fun fact: I am a linux fan boy
+- ⚡ Fun fact: I enjoy computing on linux.
 
 ### Connect with me:
 
